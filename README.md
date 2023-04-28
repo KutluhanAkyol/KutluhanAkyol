@@ -13,5 +13,5 @@ class Kutluhan {
     };
 }
 
-module.exports = Papaz
+module.exports = Kutluhan
 ```
