@@ -7,7 +7,7 @@ class Kutluhan {
         this.sex = "man",
         this.length = "178",
         this.type = "human",
-        this.job = "developer",
+        this.job = ["developer","desinger"],
         this.weight = "72",
         this.age = "18"
     };
